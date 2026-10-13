@@ -1,6 +1,25 @@
 # Aidonoo
 
-Aidonoo est une plateforme de services entre particuliers pensée pour faciliter l’entraide locale en Belgique. Les particuliers peuvent trouver de l’aide près de chez eux et les prestataires présenter leurs services.
+<p align="center">
+  <strong>La plateforme de services entre particuliers, près de chez vous.</strong><br />
+  Trouvez un coup de main ou proposez vos services en Belgique.
+</p>
+
+## Aperçu
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/evdk25-wq/Aidonoo/main/Accueil.png" alt="Page d’accueil Aidonoo" width="100%" />
+</p>
+
+<details>
+  <summary>Voir les autres captures</summary>
+  <br />
+  <p><img src="https://raw.githubusercontent.com/evdk25-wq/Aidonoo/main/Hero.png" alt="Hero Aidonoo" width="100%" /></p>
+  <p><img src="https://raw.githubusercontent.com/evdk25-wq/Aidonoo/main/Hero2.png" alt="Services et prestataires Aidonoo" width="100%" /></p>
+  <p><img src="https://raw.githubusercontent.com/evdk25-wq/Aidonoo/main/End.png" alt="Fin de la page d’accueil Aidonoo" width="100%" /></p>
+  <p><img src="https://raw.githubusercontent.com/evdk25-wq/Aidonoo/main/Footer.png" alt="Pied de page Aidonoo" width="100%" /></p>
+  <p><img src="https://raw.githubusercontent.com/evdk25-wq/Aidonoo/main/Password.png" alt="Écran de connexion Aidonoo" width="100%" /></p>
+</details>
 
 ## Fonctionnalités de la maquette
 
